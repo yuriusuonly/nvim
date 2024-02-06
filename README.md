@@ -1,6 +1,6 @@
 # NVIM
 
-Neovim configuration with common editor key bindings and native LSP support.
+Neovim Lua configuration with common editor key bindings and native LSP support.
 
 * Native LSP configurations: [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 * Auto LSP configurator: [mason.nvim](https://github.com/williamboman/mason.nvim)
@@ -11,19 +11,11 @@ Neovim configuration with common editor key bindings and native LSP support.
 
 ## Installation
 
-### Linux / MacOS
-
 ```
-git clone --recurse-submodules https://github.com/yuriuseu/nvim.git $HOME/.config/nvim
+git clone --recurse-submodules https://github.com/yuriusudev/nvim.git $HOME/.config/nvim
 ```
 
-### Windows (PowerShell)
-
-```
-git clone --recurse-submodules https://github.com/yuriuseu/nvim.git $env:USERPROFILE\AppData\Local\nvim
-```
-
-### Updates
+### Update
 
 ```
 git pull
@@ -32,8 +24,6 @@ git submodule update --recursive --remote
 
 > [!Tip]
 > Run [`:Mason`](https://github.com/williamboman/mason.nvim#commands) to manually select and install native Language Servers.
-
-> [!Tip]
 > or configure [`mason-lspconfig`](https://github.com/williamboman/mason-lspconfig.nvim#default-configuration) to automatically install supported Language Servers.
 
 ## Keymaps
