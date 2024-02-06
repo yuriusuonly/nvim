@@ -23,8 +23,8 @@ git submodule update --recursive --remote
 ```
 
 > [!Tip]
-> Run [`:Mason`](https://github.com/williamboman/mason.nvim#commands) to manually select and install native Language Servers.
-> or configure [`mason-lspconfig`](https://github.com/williamboman/mason-lspconfig.nvim#default-configuration) to automatically install supported Language Servers.
+> Run [`:Mason`](https://github.com/williamboman/mason.nvim#commands) to manually select and install native Language Servers.  
+> Or configure [`mason-lspconfig`](https://github.com/williamboman/mason-lspconfig.nvim#default-configuration) to automatically install supported Language Servers.
 
 ## Keymaps
 
