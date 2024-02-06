@@ -1,0 +1,24 @@
+[submodule "pack/plugins/start/nvim-lspconfig"]
+	path = pack/plugins/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "pack/plugins/start/mason.nvim"]
+	path = pack/plugins/start/mason.nvim
+	url = https://github.com/williamboman/mason.nvim
+[submodule "pack/plugins/start/mason-lspconfig.nvim"]
+	path = pack/plugins/start/mason-lspconfig.nvim
+	url = https://github.com/williamboman/mason-lspconfig.nvim
+[submodule "pack/plugins/start/nvim-cmp"]
+	path = pack/plugins/start/nvim-cmp
+	url = https://github.com/hrsh7th/nvim-cmp
+[submodule "pack/plugins/start/cmp-nvim-lsp"]
+	path = pack/plugins/start/cmp-nvim-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp
+[submodule "pack/plugins/start/vim-sleuth"]
+	path = pack/plugins/start/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth
+[submodule "pack/plugins/start/indent-blankline.nvim"]
+	path = pack/plugins/start/indent-blankline.nvim
+	url = https://github.com/lukas-reineke/indent-blankline.nvim
+[submodule "pack/plugins/start/gitsigns.nvim"]
+	path = pack/plugins/start/gitsigns.nvim
+	url = https://github.com/lewis6991/gitsigns.nvim
